@@ -1,4 +1,5 @@
 from math import pi
+from math import e 
 
 def v_szescian():
     a = float(input("podaj a: "))
